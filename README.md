@@ -1,2 +1,0 @@
-# kanagawa-maru
-### test
